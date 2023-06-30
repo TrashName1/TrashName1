@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer with 5 years of experience in Web Development. I'm passionate about creating user-friendly web applications, and I love to explore the latest tech trends in my free time.
 
-![Noah's github stats](https://github-readme-stats.vercel.app/api?username=TrashName1&show_icons=true&theme=tokyonight)
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=TrashName1&show_icons=true&theme=transparent)
 
 ## 🔭 I’m currently working on 
 
