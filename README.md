@@ -1,41 +1,36 @@
-# Hi there, I'm Orion Starwalker 👋
+# Hi there, I'm Noah 👋
 
-I'm an Intergalactic Software Engineer with 7.5 light-years of experience in Quantum Computing. I'm passionate about unraveling the mysteries of the multiverse, and I love to code while floating in zero gravity.
+I'm a Full Stack Developer with 5 years of experience in Web Development. I'm passionate about creating user-friendly web applications, and I love to explore the latest tech trends in my free time.
 
-![Orion's github stats](https://github-readme-stats.vercel.app/api?username=TrashName1&show_icons=true&theme=tokyonight)
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=TrashName1&show_icons=true&theme=tokyonight)
 
 ## 🔭 I’m currently working on 
 
-[Quantum Flux](https://github.com/TrashName1/quantumflux) - A state-of-the-art quantum computing platform that leverages qubits to solve complex galactic problems.
+Nothing
 
 ## 🌱 I’m currently learning 
 
-Wormhole Networking - Exploring the possibilities of instantaneous data transfer through the fabric of spacetime.
+React Native - Expanding my skills in mobile app development to create cross-platform applications.
 
 ## 👯 I’m looking to collaborate on 
 
-Intergalactic projects - Particularly those that aim to improve life in the cosmos and advance our understanding of the universe.
+Open-source projects - Particularly those that aim to make a social impact or improve digital accessibility.
 
 ## 🤔 I’m looking for help with 
 
-[Stellar Drive](https://github.com/TrashName1/stellardrive) - My open-source project that aims to improve the efficiency of interstellar travel. 
+Nothing ATM
 
 ## 💬 Ask me about 
 
-Quantum computing, interstellar travel, universal mysteries, and the best space snacks!
+Web development, digital accessibility
 
 ## 📫 How to reach me
 
-- LinkedIn: [Orion Starwalker](https://www.linkedin.com/in/orion-starwalker/)
-- Email: [orion.starwalker@interstellar.com](mailto:orion.starwalker@interstellar.com)
-
-## 😄 Pronouns
-
-He/Him
+- By letter
 
 ## ⚡ Fun fact
 
-I've played chess with extraterrestrial life forms on 3 different exoplanets!
+I've read over 100 books in the past year! (Biggest cap ever)
 
 ---
 ⭐️ From [TrashName1](https://github.com/TrashName1)
